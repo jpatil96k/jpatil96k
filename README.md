@@ -35,7 +35,6 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
