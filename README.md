@@ -146,10 +146,12 @@ Mobile Friendly Business Website.
 
 <div align="center">
 
+<div align="center">
+
 ###  Thanks for visiting my profile
 
 ⭐ Star my repositories if you find them useful!
 
-<img src="https://vitthal-portfolio.netlify.app/"/>
+🌐 <a href="https://vitthal-portfolio.netlify.app/">Visit My Portfolio Website</a>
 
 </div>
