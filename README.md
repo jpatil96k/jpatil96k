@@ -146,10 +146,10 @@ Mobile Friendly Business Website.
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile
+###  Thanks for visiting my profile
 
 ⭐ Star my repositories if you find them useful!
 
-<img src="https://komarev.com/ghpvc/?username=jpatil96k&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://vitthal-portfolio.netlify.app/"/>
 
 </div>
