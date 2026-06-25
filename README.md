@@ -21,7 +21,6 @@
 - Full Stack Web Development
 - Artificial Intelligence
 - Data Science
-- Software Engineering
 
 🌱 Currently Learning:
 - Flask
@@ -29,6 +28,7 @@
 - Machine Learning
 - Advanced Python
 - System Design
+- Power BI
 
 🎯 Goal:
 Build impactful software products and secure a Software Engineering role by 2028.
@@ -37,35 +37,23 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Programming Languages:**
+Python • C++ • JavaScript
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Frontend:**
+HTML5 • CSS3 • Bootstrap
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Backend:**
+Flask • Node.js
 
-### Frontend
+**Database:**
+MySQL
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Tools:**
+Git • GitHub • VS Code
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
