@@ -35,94 +35,49 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 ---
 
+# 🧠 Tech Stack & Skills
 
-## 🛠️ Tech Stack
+## 🚀 Programming Languages
 
-**Programming Languages:**
-Python • C++ • JavaScript
-
-**Frontend:**
-HTML5 • CSS3 • Bootstrap
-
-**Backend:**
-Flask • Node.js
-
-**Database:**
-MySQL
-
-**Tools:**
-Git • GitHub • VS Code
-
+- 🐍 Python • 
+- C++
+- 🌐 JavaScript
 
 ---
 
-## 📊 GitHub Statistics
+## 🎨 Frontend
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpatil96k&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatil96k&layout=compact&theme=tokyonight"/>
-
-</div>
+- 🧱 HTML5
+- 🎨 CSS3
 
 ---
 
-## 🔥 GitHub Streak
+## ⚙️ Backend
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jpatil96k&theme=tokyonight"/>
-
-</div>
+- 🔥 Flask
+- 🟢 Node.js
 
 ---
 
-## 🚀 Featured Projects
+## 🗄️ Database
 
-### 🤖 AI Assistant
-
-Voice-controlled personal assistant developed using Python.
-
-### 😀 Face Recognition System
-
-Real-time face detection and recognition using computer vision techniques.
-
-### 📱 Responsive Website
-
-Mobile-friendly and responsive business website.
-
-### 🐍 Python Automation Tools
-
-Automation scripts for daily tasks, file handling, and productivity improvements.
-
-### 🗄️ Database Management Projects
-
-MySQL-based applications with secure data storage and retrieval.
-
-### 💻 Web Development Projects
-
-Frontend and backend web applications built using HTML, CSS, JavaScript, Flask, and MySQL.
+- 🐬 MySQL
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tools & Platforms
 
-🏅 Open Source Learner
-
-🏅 Python Developer
-
-🏅 Web Development Enthusiast
-
-🏅 Problem Solver
-
-🏅 Building Real World Projects
+- 🔀 Git
+- 🐙 GitHub
+- 💻 VS Code
 
 ---
 
-## 📈 Contribution Graph
+## 📚 Currently Learning
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jpatil96k&theme=tokyo-night"/>
+- 🤖 AI & Machine Learning
+- 📊 Data Science
+- ⚛️ React 
 
 ---
 
