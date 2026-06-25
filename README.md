@@ -93,12 +93,6 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 ## 🚀 Featured Projects
 
-### 🖨️ SAT Project
-Smart Academic Tracker and Management System.
-
-### 🌐 Xerox Sharing Platform
-Online Xerox Ordering and Shop Management System.
-
 ### 🤖 AI Assistant
 Voice Controlled Personal Assistant using Python.
 
