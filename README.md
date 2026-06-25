@@ -82,13 +82,28 @@ Git • GitHub • VS Code
 ## 🚀 Featured Projects
 
 ### 🤖 AI Assistant
-Voice Controlled Personal Assistant using Python.
+
+Voice-controlled personal assistant developed using Python.
 
 ### 😀 Face Recognition System
-Real-Time Face Detection and Recognition.
+
+Real-time face detection and recognition using computer vision techniques.
 
 ### 📱 Responsive Website
-Mobile Friendly Business Website.
+
+Mobile-friendly and responsive business website.
+
+### 🐍 Python Automation Tools
+
+Automation scripts for daily tasks, file handling, and productivity improvements.
+
+### 🗄️ Database Management Projects
+
+MySQL-based applications with secure data storage and retrieval.
+
+### 💻 Web Development Projects
+
+Frontend and backend web applications built using HTML, CSS, JavaScript, Flask, and MySQL.
 
 ---
 
@@ -120,11 +135,11 @@ Mobile Friendly Business Website.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/vitthal-jogdand-b411b6399?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:vjogdand2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
