@@ -83,10 +83,8 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/jpatil96k">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/jogdand.patil_96k?igsh=MXkyaTA0dWF5M2Y1eQ==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vitthal-jogdand-b411b6399">
