@@ -10,7 +10,6 @@
 
 ---
 
-<div align="center">
 ## 🌟 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -82,6 +81,7 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 ---
 
+<div align="center">
 ## 🌐 Connect With Me
 
 <a href="https://www.instagram.com/jogdand.patil_96k?igsh=MXkyaTA0dWF5M2Y1eQ==">
@@ -100,8 +100,6 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 </div>
 ---
-
-<div align="center">
 
 <div align="center">
 
