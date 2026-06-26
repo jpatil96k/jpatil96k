@@ -48,7 +48,7 @@ Build impactful software products and secure a Software Engineering role by 2028
 ## 🎨 Frontend
 
 - 🧱 HTML5
-- 🎨 CSS3
+- 🎨 CSS
 
 ---
 
