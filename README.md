@@ -10,6 +10,7 @@
 
 ---
 
+<div align="center">
 ## 🌟 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -97,7 +98,7 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 </p>
 
-
+</div>
 ---
 
 <div align="center">
