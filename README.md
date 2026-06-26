@@ -39,7 +39,7 @@ Build impactful software products and secure a Software Engineering role by 2028
 
 ## 🚀 Programming Languages
 
-- 🐍 Python • 
+- 🐍 Python 
 - C++
 - 🌐 JavaScript
 
